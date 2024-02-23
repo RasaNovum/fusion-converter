@@ -1,5 +1,5 @@
 # Fusion Converter
-A script to automate the conversion from CTM (or other) file formats to Fusion using Midnighttigger's **MT-Fusion-Converter**
+A script to automate the conversion from CTM (or other) file formats to Fusion using Midnighttigger's **MT-Fusion-Converter** while keeping the same file names.
 
 - Move [MT-Fusion-Converter](https://github.com/Midnighttigger/MT-Fusion-Converter/tree/main) into a folder
 - Move all files from this repository into the same folder
